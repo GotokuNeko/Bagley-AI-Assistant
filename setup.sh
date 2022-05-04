@@ -14,5 +14,6 @@ sudo apt-get install libportaudio-dev
 sudo apt-get install portaudio19-dev
 python3 -m pip install PyAudio
 sudo apt-get -y install python3-rpi.gpio
+sudo apt-get install flac
 
 echo "\nDone ...\n"
